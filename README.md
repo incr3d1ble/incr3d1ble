@@ -14,7 +14,7 @@
 **Kevin or @augustkevin** · Builder · Security Researcher · Creative  
 *Trading Communities · Roleplay Servers · Music · Photography*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%7C+Security+Researcher;SA-MP+%2F+OMP+Gamemode+Engineer;Discord+Bot+Developer+%7C+Node.js+%2B+MySQL;Python+%7C+PHP+%7C+Pawn+%7C+Blender;RDT+Community+Builder+%7C+Real+Deal+Traders)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%7C+Security+Researcher;SA-MP+%2F+OMP+Gamemode+Engineer;Discord+Bot+Developer+%7C+Node.js+%2B+MySQL;Python+%7C+PHP+%7C+Pawn+%7C+Blender)](https://git.io/typing-svg)
 
 </div>
 
