@@ -23,10 +23,8 @@
 ## `> cat /etc/profile`
 
 ```
-Location    : Indonesia
 Stack       : Python · Node.js · PHP · Pawn · Blender · HTML/CSS
 Domains     : Security · Game Servers · Trading · Music · Photography
-Community   : Real Deal Traders (RDT)
 Status      : Building, always.
 ```
 
@@ -127,7 +125,7 @@ A single-file HTML app built for my band's songwriting workflow.
 
 ```log
 [2026] Building @augustkevin Master Vuln Scanner — 71 modules, 13,378 PoC templates
-[2026] Shipping Montebello OMP server — full auth, UCP, leaderboard
+[2026] Shipping OMP server — full auth, UCP, leaderboard
 [2026] Maintaining RDT Discord bot — 1,000+ member community
 [2026] Iterating RuangBingkai photobooth — iOS fixes, nine strip themes
 [2026] Songwriting & playing with the band
