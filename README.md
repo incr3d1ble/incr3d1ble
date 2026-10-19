@@ -15,7 +15,7 @@ Honestly, I just feel so incredibly lucky. My life is good because the people in
 Big love and massive credits to:
 
 - **My parents**, Mr. Marwin & Mrs. Eni
-- **Khatarina Verlita**, for staying by my side through all the highs and lows 🤎
+- **Khatarina Verlita**, for staying by my side through all the highs and lows
 - **All of my mentors**, Mr. Husni, Mrs. Annisa W., Mrs. Lina, Mr. Anton, and many others
 - **All of my friends**, for the constant laughs and endless support
 - **All of my teachers** at **SMA Negeri 1 Gunung Sindur**
