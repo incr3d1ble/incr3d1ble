@@ -10,3 +10,14 @@
 ![Security](https://img.shields.io/badge/Security_Research-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
 
 </div>
+
+Honestly, I just feel so incredibly lucky. My life is good because the people in it are good.
+Big love and massive credits to:
+
+- My parents
+- Khatarina Verlita
+- All of my mentors
+- All of my Senior High School friends
+- All of my teachers.
+
+Thank you for being the backbone of my journey. I wouldn’t be here without you guys.
