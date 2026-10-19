@@ -17,7 +17,8 @@ Big love and massive credits to:
 - My parents
 - Khatarina Verlita
 - All of my mentors
-- All of my Senior High School friends
-- All of my teachers.
+- All of my friends
+- All of my school teachers
+- SMA Negeri 1 Gunung Sindur
 
-Thank you for being the backbone of my journey. I wouldn’t be here without you guys.
+Thank you for being the backbone of my journey. I wouldn’t be where I am today without you guys.
