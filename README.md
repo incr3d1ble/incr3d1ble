@@ -20,5 +20,5 @@ Big love and massive credits to:
 - **All of my friends**, for the constant laughs and endless support
 - **All of my teachers** at **SMA Negeri 1 Gunung Sindur**
 
-Thank you for being the backbone of my journey. I wouldn’t be where I am today without you guys.
+Thank you for being the backbone of my journey. I wouldn’t be where I am today without each and every one of you.
 
