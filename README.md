@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=800&height=80&lines=Security+Researcher+%7C+Code+Engineer;Application+Security+%7C+Bug+Bounty;Secure+Systems+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1200&repeat=false&color=7DD3FC&center=true&vCenter=true&width=900&height=90&lines=Security+Researcher;Bug+Bounty+Hunter;Web+App+Pentester;Cybersecurity+Engineer;Code+Engineer" alt="Typing banner" />
 
   <h1>Kevin Sanjaya</h1>
 
@@ -35,8 +35,7 @@
 Jeremiah 29:11
 "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future."
 
-Aspiring Security Researcher and 11th-grade student at SMA Negeri 1 Gunung Sindur. Passionate about dissecting web application vulnerabilities, particularly around XSS, XXE, and RCE vectors. Driven by hands-on research, standard-compliant technical reporting, and keeping pace with modern offensive security trends. Aiming to strengthen global software defenses by delivering clear, high-value findings to responsible disclosure initiatives.
-
+Aspiring Security Researcher and 11th-grade student at SMA Negeri 1 Gunung Sindur. Passionate about dissecting web application vulnerabilities, particularly around XSS, XXE, and RCE vectors. Driven by curiosity, hands-on research, and the mission to build safer systems through technical rigor and responsible disclosure.
 
 ---
 
@@ -66,29 +65,40 @@ Aspiring Security Researcher and 11th-grade student at SMA Negeri 1 Gunung Sindu
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ---
 
-## Tools & Platforms
+## Security Tools & Platforms
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6A00?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-CA3B12?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frida-FF4D4D?style=flat-square&logo=frida&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6A00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-7497F7?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ffuf-1A1A1A?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-2E7D32?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-2A2A2A?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-5B5B5B?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-FF4D4D?style=for-the-badge&logo=frida&logoColor=white" />
 </p>
 
 ---
 
-## Most Used
+## Core Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -97,6 +107,9 @@ Aspiring Security Researcher and 11th-grade student at SMA Negeri 1 Gunung Sindu
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -104,8 +117,8 @@ Aspiring Security Researcher and 11th-grade student at SMA Negeri 1 Gunung Sindu
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=incr3d1ble&show_icons=true&theme=radical&hide_border=true&title_color=fff&text_color=ddd&icon_color=7dd3fc&bg_color=0f172a" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incr3d1ble&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=fff&text_color=ddd" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=incr3d1ble&show_icons=true&theme=radical&hide_border=true&title_color=fff&text_color=ddd&icon_color=7dd3fc&bg_color=0f172a" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incr3d1ble&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=fff&text_color=ddd" alt="Top Languages" />
 </div>
 
 <div align="center">
