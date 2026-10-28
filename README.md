@@ -133,9 +133,3 @@ Thank you for being part of this journey.
 - LinkedIn: [Kevin Sanjaya](https://www.linkedin.com/in/kevin-sanjaya-001196319/)
 - Bugcrowd: [@20kevinsanjaya](https://bugcrowd.com/h/20kevinsanjaya)
 - GitHub: [@incr3d1ble](https://github.com/incr3d1ble)
-
----
-
-<p align="center">
-  <i>Focused on building safer systems and understanding real-world technical risks.</i>
-</p>
