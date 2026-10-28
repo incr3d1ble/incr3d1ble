@@ -5,31 +5,22 @@
   <h1>Kevin Sanjaya</h1>
 
   <p>
-    <strong>Security Researcher • Code Engineer • Cybersecurity Enthusiast</strong>
+    <strong>Security Researcher • Code Engineer • Cybersecurity</strong>
   </p>
 
   <p>
-    <a href="https://github.com/incr3d1ble">
-      <img src="https://img.shields.io/badge/GitHub-incr3d1ble-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <a href="https://www.linkedin.com/in/kevin-sanjaya-001196319/">
+      <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Sanjaya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/your-profile/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://hackerone.com/your-profile">
-      <img src="https://img.shields.io/badge/HackerOne-Profile-FF6A00?style=for-the-badge&logo=hackerone" alt="HackerOne">
-    </a>
-    <a href="https://bugcrowd.com/your-profile">
-      <img src="https://img.shields.io/badge/Bugcrowd-Profile-FF6600?style=for-the-badge&logo=bugcrowd" alt="Bugcrowd">
+    <a href="https://bugcrowd.com/h/20kevinsanjaya">
+      <img src="https://img.shields.io/badge/Bugcrowd-20kevinsanjaya-FF6600?style=for-the-badge&logo=bugcrowd" alt="Bugcrowd">
     </a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/followers/incr3d1ble?style=social" alt="Followers">
-    <img src="https://img.shields.io/github/stars/incr3d1ble?style=social" alt="Stars">
-    <img src="https://komarev.com/ghpvc/?username=incr3d1ble&label=Profile+Views&color=0E75B6&style=flat" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/incr3d1ble?style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/incr3d1ble?style=social" alt="GitHub Stars" />
+    <img src="https://komarev.com/ghpvc/?username=incr3d1ble&label=Profile+Views&color=0E75B6&style=flat" alt="Profile Views" />
   </p>
 
 </div>
@@ -38,19 +29,19 @@
 
 ## About
 
-I work at the intersection of security research and software engineering, with a focus on application security, vulnerability discovery, secure development practices, and reliable system design.
+Security researcher and code engineer focused on application security, vulnerability research, secure engineering, and responsible disclosure.
 
-My work is driven by a simple goal: identify meaningful weaknesses before they become real risks, and help turn those findings into safer systems. I am especially interested in web security, secure code review, API hardening, and the practical side of offensive security.
+I work across web security, API hardening, bug bounty workflows, and secure software design. My focus is on finding real-world weaknesses, validating them responsibly, and helping teams turn those findings into stronger systems.
 
 ---
 
-## Focus Areas
+## Core Focus
 
 - Web Application Security
 - API Security
 - Vulnerability Research
-- Responsible Disclosure
 - Bug Bounty
+- Responsible Disclosure
 - Secure Code Review
 - Backend Engineering
 - Threat Modeling
@@ -58,37 +49,29 @@ My work is driven by a simple goal: identify meaningful weaknesses before they b
 
 ---
 
-## Tech Stack
+## Stack
 
 ### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
-### Frameworks & Platforms
+### Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-### Security Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6A00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-CA3B12?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frida-FF4D4D?style=for-the-badge&logo=frida&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6A00?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-CA3B12?style=flat-square&logo=owasp&logoColor=white" />
 </p>
 
 ---
@@ -125,54 +108,66 @@ My work is driven by a simple goal: identify meaningful weaknesses before they b
 ## Experience
 
 ### Security Researcher / Freelancer
-- Conducting security assessments and vulnerability research on web applications and APIs.
-- Identifying weaknesses responsibly and helping teams improve their defensive posture.
-- Working across security testing, disclosure workflows, and secure engineering practices.
+- Conducted security assessments and vulnerability research on web applications and APIs.
+- Identified and validated weaknesses in real systems before disclosure.
+- Worked on bug bounty programs, secure reviews, and responsible disclosure workflows.
 
 ### Code Engineer
-- Building backend systems, APIs, and application logic with a focus on maintainability and security.
-- Designing solutions with strong validation, clear architecture, and production-minded reliability.
-- Working with modern tooling and secure deployment practices.
+- Built backend systems, APIs, and application logic with a focus on maintainability and security.
+- Worked with modern development stacks and secure deployment practices.
+- Designed solutions that balance performance, reliability, and system hardening.
+
+### Community / Leadership
+- Contributed to open-source and security-focused initiatives.
+- Supported learning and technical growth within cybersecurity and software communities.
 
 ---
 
-## Current Focus
+## Certifications & Recognition
 
-- Application security research
-- API and web vulnerability analysis
-- Secure architecture & source review
-- Bug bounty and disclosure workflows
-- Automation for security and development tasks
+<div align="left">
+
+  <img src="https://img.shields.io/badge/VDP-Security%20Recognition-0A4D8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Redirect-Vulnerability%20Coordination-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-Vulnerability%20Coordination-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsible%20Disclosure-Acknowledgment-4B5563?style=for-the-badge" />
+
+</div>
+
+### Highlights
+- Vulnerability Disclosure Program (VDP) Security Recognition — U.S. Department of Education
+- Certificate of Appreciation — Open Redirect Vulnerability Coordination
+- Certificate of Appreciation — Security Vulnerability Coordination
+- Certificate of Appreciation — Security Vulnerability Contribution
+- Responsible Disclosure Acknowledgment & Security Contribution
 
 ---
 
-## Credits and Appreciation
+## Appreciation
 
-Honestly, I just feel so incredibly lucky. My life is good because the people in it are good. Big love and massive credits to:
+Honestly, I feel incredibly lucky. My life is good because the people in it are good.
 
-- My parents, Mr. Marwin & Mrs. Eni as my great supporters!
-- Khatarina Verlita, for staying by my side through all the highs and lows
+Big love and gratitude to:
+
+- My parents, Mr. Marwin & Mrs. Eni
+- Khatarina Verlita
 - My uncle, Mr. Enggiaw, and the rest of my family
-- All of my mentors, Mr. Husni, Mrs. Annisa W., Mrs. Lina, Mr. Anton, and many others
-- All of my friends, for the constant laughs and endless support
-- All of my teachers at SMA Negeri 1 Gunung Sindur
+- My mentors, Mr. Husni, Mrs. Annisa W., Mrs. Lina, Mr. Anton, and many others
+- My friends, for the laughter and constant support
+- My teachers at SMA Negeri 1 Gunung Sindur
 
-Thank you for being the backbone of my journey. I wouldn’t be where I am today without each and every one of you.
+Thank you for being part of this journey.
 
 ---
 
 ## Contact
 
-If you want to collaborate, review a security issue, or discuss engineering and security work, feel free to reach out.
-
+- LinkedIn: [Kevin Sanjaya](https://www.linkedin.com/in/kevin-sanjaya-001196319/)
+- Bugcrowd: [@20kevinsanjaya](https://bugcrowd.com/h/20kevinsanjaya)
 - GitHub: [@incr3d1ble](https://github.com/incr3d1ble)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile/)
-- HackerOne: [your-profile](https://hackerone.com/your-profile)
-- Bugcrowd: [your-profile](https://bugcrowd.com/your-profile)
 
 ---
 
 <p align="center">
-  <i>Focused on securing systems, understanding attack surfaces, and building better software from both security and engineering perspectives.</i>
+  <i>Focused on building safer systems and understanding real-world technical risks.</i>
 </p>
