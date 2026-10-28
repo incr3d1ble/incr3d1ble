@@ -110,28 +110,6 @@ I work across web security, API hardening, security testing, and secure engineer
   <img src="https://streak-stats.demolab.com/?user=incr3d1ble&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## Certifications & Recognition
-
-<div align="left">
-  <img src="https://img.shields.io/badge/VDP-Security%20Recognition-0A4D8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Redirect-Vulnerability%20Coordination-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-Vulnerability%20Coordination-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsible%20Disclosure-Acknowledgment-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20App%20Security-Assessment-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Responsible%20Disclosure-DC2626?style=for-the-badge" />
-</div>
-
-- Vulnerability Disclosure Program (VDP) Security Recognition — U.S. Department of Education
-- Certificate of Appreciation — Open Redirect Vulnerability Coordination
-- Certificate of Appreciation — Security Vulnerability Coordination
-- Certificate of Appreciation — Security Vulnerability Contribution
-- Responsible Disclosure Acknowledgment & Security Contribution
-- Security Vulnerability Recognition — Government and Institutional Security Program
-
----
-
 ## Appreciation
 
 Honestly, I feel incredibly lucky. My life is good because the people in it are good.
