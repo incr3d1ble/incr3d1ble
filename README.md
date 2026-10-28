@@ -32,9 +32,11 @@
 
 ## About
 
-Security researcher and code engineer focused on application security, vulnerability research, secure software design, and responsible disclosure.
+Jeremiah 29:11
+"For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future."
 
-I work across web security, API hardening, security testing, and secure engineering. My focus is on identifying real-world weaknesses, validating them responsibly, and helping teams turn those findings into stronger systems.
+Aspiring Security Researcher and 11th-grade student at SMA Negeri 1 Gunung Sindur. Passionate about dissecting web application vulnerabilities, particularly around XSS, XXE, and RCE vectors. Driven by hands-on research, standard-compliant technical reporting, and keeping pace with modern offensive security trends. Aiming to strengthen global software defenses by delivering clear, high-value findings to responsible disclosure initiatives.
+
 
 ---
 
